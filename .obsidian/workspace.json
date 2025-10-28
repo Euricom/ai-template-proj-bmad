@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5fb6abc76fcaff75",
+        "id": "91305aa124ab83db",
         "type": "tabs",
         "children": [
           {
-            "id": "721c456c6b3b6799",
+            "id": "3f197220e0990425",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "2025-10-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for 2025-10-09"
             }
           },
           {
@@ -142,21 +142,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "37979744861b8ba9",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 766.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,27 +176,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "721c456c6b3b6799",
+  "active": "37979744861b8ba9",
   "lastOpenFiles": [
     "CLAUDE.md",
+    "Untitled.base",
+    "copilot/commands/test.md",
+    "copilot/commands",
+    "copilot",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-conversations/why_is_the_sky_blue@20251016_105651.md",
+    "copilot/copilot-conversations",
+    "diagrams/Drawing 2025-10-16 10.59.24.excalidraw.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "README.md",
+    "diagrams/Drawing 2025-10-13 16.28.59.excalidraw.md",
+    "diagrams/Drawing 2025-10-13 16.28.55.excalidraw.md",
+    "2025-10-09.md",
+    "Untitled.canvas",
+    "AGENTS.md",
+    "test.md",
     "PRPs/README.md",
     "PRPs/templates/prp_base.md",
     "PRPs/templates",
     "PRPs/ai_docs",
     "PRPs",
     "specs/stories",
-    "ai_docs",
-    "src",
-    "diagrams/sample-drawing.md",
     "diagrams/sample-drawing.svg",
-    "images/just a test.md",
-    "diagrams",
-    "images/just a test.svg",
-    "images",
-    "Welcome.md"
+    "images/just a test.svg"
   ]
 }
